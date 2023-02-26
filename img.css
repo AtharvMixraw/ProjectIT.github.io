@@ -1,0 +1,88 @@
+body{
+    background-color: #FFFBEB;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+.i1{
+    height: 350px;
+    width: 350px;
+    border-radius: 8%;
+}
+.i1:hover{
+    border:2px solid black;  box-shadow: 0 0 10px #333;
+}
+
+.i2{
+    height: 350px;
+    width: 350px;
+    border-radius: 8%;
+    position: relative;
+    left: 200px;
+}
+.i2:hover{
+    border:2px solid black;  box-shadow: 0 0 10px #333;
+}
+
+.i3{
+    height: 350px;
+    width: 350px;
+    border-radius: 8%;
+    position: relative;
+    left: 350px;
+}
+.i3:hover{
+    border:2px solid black;  box-shadow: 0 0 10px #333;
+}
+
+.i4{
+    height: 350px;
+    width: 350px;
+    border-radius: 8%;
+}
+.i4:hover{
+    border:2px solid black;  box-shadow: 0 0 10px #333;
+}
+
+.i5{
+    height: 350px;
+    width: 350px;
+    border-radius: 8%;
+    position: relative;
+    left: 200px;
+}
+.i5:hover{
+    border:2px solid black;  box-shadow: 0 0 10px #333;
+}
+
+.i6{
+    height: 350px;
+    width: 350px;
+    border-radius: 8%;
+    position: relative;
+    left: 350px;
+}
+.i6:hover{
+    border:2px solid black;  box-shadow: 0 0 10px #333;
+}
+
+.i7{
+    height: 350px;
+    width: 350px;
+    border-radius: 8%;
+}
+.i7:hover{
+    border:2px solid black;  box-shadow: 0 0 10px #333;
+}
+
+.i8{
+    height: 350px;
+    width: 350px;
+    border-radius: 8%;
+    position: relative;
+    left: 200px;
+}
+.i8:hover{
+    border:2px solid black;  box-shadow: 0 0 10px #333;
+}

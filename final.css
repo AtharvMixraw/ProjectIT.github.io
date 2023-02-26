@@ -1,0 +1,393 @@
+body {
+    background-image: url("/Users/atharvmishra/Desktop/Projects/ezgif.com-video-to-gif.gif");
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+hr{
+    border: dotted rgb(216, 233, 237) 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 5% 49%;
+}
+h1{
+    text-align: center;
+    text-decoration: double;
+    color: #fffdfa;
+    font-size: 60px;
+    text-shadow: 2px 2px #000000;
+}
+p{
+    font-size: 25px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+ul{
+    font-size: 25px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 30%;
+}
+a {
+    color: chartreuse;
+}
+.taskbar{
+    height: 70px;
+    background-color: black;
+    margin-top: 0;
+    padding: 2px;
+    padding-left: 0;
+}
+.taskbar1{
+    height: 70px;
+    background-color: black;
+    margin-top: 0;
+    padding: 2px;
+    padding-left: 0;
+    margin-top: 60px;
+}
+.logo{
+    height:70px;
+    width: 250px;
+    
+}
+.logo:hover{
+  height:75px;
+  width: 260px;
+}
+
+.logo1{
+    height: 60px;
+    width: 90px;
+    position: absolute;
+    right: 20px;
+    border-radius: 70%;
+    border: #000000;
+}
+.logo1:hover{
+    height: 70px;
+    width: 105px;
+    filter: brightness(50%);
+}
+.logo2{
+    height: 62px;
+    width: 95px;
+    position: absolute;
+    right: 120px;
+    border-radius: 70%;
+}
+.logo2:hover{
+    height: 70px;
+    width: 105px;
+    filter: brightness(50%);
+}
+.logo3{
+    height: 65px;
+    width: 100px;
+    position: absolute;
+    right: 220px;
+    border-radius: 60%;
+}
+.logo3:hover{
+  height: 70px;
+  width: 105px;
+  filter: brightness(50%);
+}
+.logo4{
+    height: 65px;
+    width: 100px;
+    position: absolute;
+    right: 320px;
+    border-radius: 60%;
+}
+.logo4:hover{
+  height: 70px;
+  width: 105px;
+  filter: brightness(50%);
+}
+.logo5{
+    height: 65px;
+    width: 100px;
+    position: absolute;
+    right: 420px;
+    border-radius: 60%;
+}
+.logo5:hover{
+  height: 70px;
+  width: 105px;
+  filter: brightness(50%);
+}
+
+.dp{
+    height: 350px;
+    width: 400px;
+    border-radius: 50%;
+    position: relative;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    float: left;
+    transition: background-color 0.5s;
+}
+.dp:hover{
+    background-color: #332C39;
+    cursor: pointer;
+    filter: brightness(50%);
+    height: 355px;
+    width: 405px;
+}
+.desc{
+    height: 400px;
+    width: 600px;
+}
+.s1{
+    height: 300px;
+    width: 300px;
+    float: left;
+    margin-right: 2px;
+    border-radius: 50%;
+    margin-top: 2px;
+}
+.s2{
+    height: 300px;
+    width: 300px;
+    float: right;
+    margin-right: 2px;
+    border-radius: 50%;
+    margin-top: 2px;
+}
+.s3{
+    height: 300px;
+    float: left;
+    margin-right: 2px;
+    border-radius: 5%;
+    margin-top: 2px;
+    width: 300px;
+    padding-right: 50px;
+}
+.btn {
+    background: #fff700;
+    background-image: -webkit-linear-gradient(top, #fff700, #d6de39);
+    background-image: -moz-linear-gradient(top, #fff700, #d6de39);
+    background-image: -ms-linear-gradient(top, #fff700, #d6de39);
+    background-image: -o-linear-gradient(top, #fff700, #d6de39);
+    background-image: linear-gradient(to bottom, #fff700, #d6de39);
+    -webkit-border-radius: 17;
+    -moz-border-radius: 17;
+    border-radius: 17px;
+    font-family: Georgia;
+    color: #000000;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    position: absolute;
+    left: 670px;
+    cursor: pointer;
+    
+    
+  }
+  
+  .btn:hover {
+    background: #f28508;
+    text-decoration: none;
+  }
+  .btn1 {
+    background: #fff700;
+    background-image: -webkit-linear-gradient(top, #fff700, #d6de39);
+    background-image: -moz-linear-gradient(top, #fff700, #d6de39);
+    background-image: -ms-linear-gradient(top, #fff700, #d6de39);
+    background-image: -o-linear-gradient(top, #fff700, #d6de39);
+    background-image: linear-gradient(to bottom, #fff700, #d6de39);
+    -webkit-border-radius: 17;
+    -moz-border-radius: 17;
+    border-radius: 17px;
+    font-family: Georgia;
+    color: #000000;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    position: absolute;
+    left: 700px;
+    cursor: pointer;
+    
+  }
+  
+  .btn1:hover {
+    background: #f28508;
+    text-decoration: none;
+  }
+  .btn2 {
+    background: #fff700;
+    background-image: -webkit-linear-gradient(top, #fff700, #d6de39);
+    background-image: -moz-linear-gradient(top, #fff700, #d6de39);
+    background-image: -ms-linear-gradient(top, #fff700, #d6de39);
+    background-image: -o-linear-gradient(top, #fff700, #d6de39);
+    background-image: linear-gradient(to bottom, #fff700, #d6de39);
+    -webkit-border-radius: 17;
+    -moz-border-radius: 17;
+    border-radius: 17px;
+    font-family: Georgia;
+    color: #000000;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    position: absolute;
+    left: 690px;
+    cursor: pointer;
+    
+  }
+  
+  .btn2:hover {
+    background: #f28508;
+    text-decoration: none;
+  }
+  .btn3 {
+    background: #fff700;
+    background-image: -webkit-linear-gradient(top, #fff700, #d6de39);
+    background-image: -moz-linear-gradient(top, #fff700, #d6de39);
+    background-image: -ms-linear-gradient(top, #fff700, #d6de39);
+    background-image: -o-linear-gradient(top, #fff700, #d6de39);
+    background-image: linear-gradient(to bottom, #fff700, #d6de39);
+    -webkit-border-radius: 17;
+    -moz-border-radius: 17;
+    border-radius: 17px;
+    font-family: Georgia;
+    color: #000000;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    position: absolute;
+    left: 660px;
+    cursor: pointer;
+    
+  }
+  
+  .btn3:hover {
+    background: #f28508;
+    text-decoration: none;
+  }
+  .btn4 {
+    background: #fff700;
+    background-image: -webkit-linear-gradient(top, #fff700, #d6de39);
+    background-image: -moz-linear-gradient(top, #fff700, #d6de39);
+    background-image: -ms-linear-gradient(top, #fff700, #d6de39);
+    background-image: -o-linear-gradient(top, #fff700, #d6de39);
+    background-image: linear-gradient(to bottom, #fff700, #d6de39);
+    -webkit-border-radius: 17;
+    -moz-border-radius: 17;
+    border-radius: 17px;
+    font-family: Georgia;
+    color: #000000;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    position: absolute;
+    left: 680px;
+    cursor: pointer;
+    
+  }
+  
+  .btn4:hover {
+    background: #f28508;
+    text-decoration: none;
+  }
+  .ve{
+    transition:background-color 0.5s ;
+  }
+  .ve:hover{
+    background-color: #332C39;
+  }
+  .wb{
+    margin-top: 10%;
+    transition: background-color 0.5s;
+  }
+  .wb:hover{
+    background-color: #332C39;
+  }
+  .cam{
+    margin-top: 10%;
+    transition: background-color 0.5s;
+  }
+  .cam:hover{
+    background-color: #332C39;
+  }
+  .code{
+    height: 600px;
+    width: 1450px;
+  }
+  .song{
+    transition:background-color 0.5s ;
+  }
+  .song:hover{
+    background-color: #332C39;
+  }
+  .p1{
+    height: 30px;
+    width: 300px;
+    border-radius: 5%;
+  }
+  .p2{
+    height: 30px;
+    width: 300px;
+    border-radius: 5%;  
+  }
+  .contact{
+    transition:background-color 0.5s ;
+  }
+  .contact:hover{
+    background-color: #332C39;
+  }
+#txt {
+    margin-top: 100px;
+    color: azure;
+    font-family: 'Courier New', Courier, monospace;
+    font-size:35px;
+    text-shadow: 3px 2px black;
+}
+#txt:hover{border:2px solid black;  box-shadow: 0 0 10px #333;
+  
+
+}
+#st1{
+    color: #B9F3FC;
+    font-size: 30px;
+}
+#quora{
+    color: red;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#one{
+    margin: 10% 49%;
+    border: dotted white 6px;
+    border-bottom: none;
+    width: 4%;
+}
+#sing{
+    color: #c6adc6;
+    font-size: 35px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: relative;
+    left: 300px;
+}
+#t1{
+  color: aliceblue;
+  font-size: large;
+  padding-right: 100px;
+  padding-left: 100px;
+}
+#t2{
+    height: 200px;
+    width: 300px;
+    border-radius: 3%;
+}
+#cr{
+  font-size: medium;
+  color: #fffdfa;
+  margin-bottom: 0;
+  margin-top: 10px;
+}
+#hello{
+  font-size: larger;
+  color: rgb(133, 237, 255);
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}

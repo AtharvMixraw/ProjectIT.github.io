@@ -1,0 +1,72 @@
+body{
+    background-color: #1F8A70;
+    /* background-image: url("/Users/atharvmishra/Desktop/Projects/Videolink images/pexels-philippe-donn-1169754.jpg");
+     */
+
+}
+h1{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+p{
+    color: antiquewhite;
+}
+P:hover{
+    text-decoration:underline;
+}
+.i1{
+    height: 300px;
+    width: 300px;
+    border-radius: 10%;
+}
+.i1:hover{
+    border:2px solid red;  box-shadow: 0 0 10px #333;  -webkit-box-shadow: 0 0 10px #333;  -moz-box-shadow: 0 0 10px #333;  -o-box-shadow: 0 0 10px #333;  -ms-box-shadow: 0 0 10px #333;
+}
+.i2{
+    height: 300px;
+    width: 300px;
+    border-radius: 10%;
+    position: relative;
+    left: 200px;
+    
+}
+.i2:hover{
+    border:2px solid red;  box-shadow: 0 0 10px #333;  -webkit-box-shadow: 0 0 10px #333;  -moz-box-shadow: 0 0 10px #333;  -o-box-shadow: 0 0 10px #333;  -ms-box-shadow: 0 0 10px #333;
+}
+.i3{
+    height: 300px;
+    width: 300px;
+    border-radius: 10%;
+    position: relative;
+    left: 400px;
+}
+.i3:hover{
+    border:2px solid red;  box-shadow: 0 0 10px #333;  -webkit-box-shadow: 0 0 10px #333;  -moz-box-shadow: 0 0 10px #333;  -o-box-shadow: 0 0 10px #333;  -ms-box-shadow: 0 0 10px #333;
+}
+.i4{
+    height: 300px;
+    width: 300px;
+    border-radius: 10%;
+}
+.i4:hover{
+    border:2px solid red;  box-shadow: 0 0 10px #333;  -webkit-box-shadow: 0 0 10px #333;  -moz-box-shadow: 0 0 10px #333;  -o-box-shadow: 0 0 10px #333;  -ms-box-shadow: 0 0 10px #333;
+}
+.i5{
+    height: 300px;
+    width: 300px;
+    border-radius: 10%;
+    position: relative;
+    left: 200px;
+}
+.i5:hover{
+    border:2px solid red;  box-shadow: 0 0 10px #333;  -webkit-box-shadow: 0 0 10px #333;  -moz-box-shadow: 0 0 10px #333;  -o-box-shadow: 0 0 10px #333;  -ms-box-shadow: 0 0 10px #333;
+}
+.i6{
+    height: 300px;
+    width: 300px;
+    border-radius: 10%;
+    position: relative;
+    left: 400px;
+}
+.i6:hover{
+    border:2px solid red;  box-shadow: 0 0 10px #333;  -webkit-box-shadow: 0 0 10px #333;  -moz-box-shadow: 0 0 10px #333;  -o-box-shadow: 0 0 10px #333;  -ms-box-shadow: 0 0 10px #333;
+}

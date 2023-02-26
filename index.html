@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>INTRO</title>
+    <link rel="icon" href="/Users/atharvmishra/Desktop/Projects/Final/favicon copy.ico">
+    <style>
+        body{
+            background-image: url("/Users/atharvmishra/Desktop/Projects/kai-pilger-Ef6iL87-vOA-unsplash.jpg");
+        }
+        .ins{
+            height: 500px;
+            width: 900px;
+            margin-left: 250px;
+            background-color: #393E46;
+            border: 5px solid black;
+            border-radius: 5% 5% 5% 5%;
+        }
+        .list{
+            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            color: #B8E8FC;
+            font-size: 30px;
+        }
+        #m1{
+            color: aliceblue;
+            font-size: 100px;
+            text-align: center;
+        }
+        #m2{
+            color: azure;
+        }
+        .btn {
+            background-image: -webkit-linear-gradient(top, #fff700, #d6de39);
+            background-image: -moz-linear-gradient(top, #fff700, #d6de39);
+            background-image: -ms-linear-gradient(top, #fff700, #d6de39);
+            background-image: -o-linear-gradient(top, #fff700, #d6de39);
+            background-image: linear-gradient(to bottom, #fff700, #d6de39);
+            -webkit-border-radius: 17;
+            -moz-border-radius: 17;
+            border-radius: 17px;
+            font-family: Georgia;
+            color: #000000;
+            font-size: 20px;
+            padding: 10px 20px 10px 20px;
+            text-decoration: none;
+            position: absolute;
+            left: 670px;
+            cursor: pointer;
+            background: #BCCEF8;
+        }   
+        .btn:hover{
+            background: #5F9DF7;
+            text-decoration: none;
+        }
+    </style>
+    <script>
+        document.querySelector(".btn").addEventListener("click",b1);
+        function b1(){
+             window.open("/Users/atharvmishra/Desktop/Projects/final.html");
+        }
+    </script>
+</head>
+    <div class="msg">
+        <h1 id="m1">Welcome To My Site</h1>
+    </div>
+    <div class="ins">
+        <h2 id="m2"><u><i>How To Interact With Website</i></u></h2>
+        <ul class="list">
+            <li>In this Website, I tried to show all my skills and the projects I made.</li>
+            <li>Website consists of 5 sections</li>
+            <ol type="1">
+                <li>Videos Section</li>
+                <li>Blogging Section</li>
+                <li>Pictures Section</li>
+                <li>Creative Project</li>
+                <li>Feedback Form</li>
+            </ol>
+            <span style="color: aliceblue;">-->Each Section contains its description and function</span>
+            <li>On the top taskbar, there is link to every Social media handle.</li>
+            <li style="color: aliceblue;">Click Here to Check it Out</li>
+            <span><input type="button" class="btn" value="Here We Go" onclick="b1();"></span>
+        </ul>
+    </div>
+<body>
+</div>
+</body>
+</html>
